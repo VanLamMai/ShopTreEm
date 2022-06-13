@@ -1,0 +1,26 @@
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.csproj.AssemblyReference.cache
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmAdmin.resources
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmBill.resources
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmLogin.resources
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmShopTreEm.resources
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.Properties.Resources.resources
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.csproj.GenerateResource.cache
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.csproj.CoreCompileInputs.cache
+D:\ShopTreEm\ShopTreEm\bin\Debug\ShopTreEm.exe.config
+D:\ShopTreEm\ShopTreEm\bin\Debug\ShopTreEm.exe
+D:\ShopTreEm\ShopTreEm\bin\Debug\ShopTreEm.pdb
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.exe
+D:\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.pdb
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\bin\Debug\ShopTreEm.exe.config
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\bin\Debug\ShopTreEm.exe
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\bin\Debug\ShopTreEm.pdb
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.csproj.AssemblyReference.cache
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmAdmin.resources
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmBill.resources
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmLogin.resources
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.frmShopTreEm.resources
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.Properties.Resources.resources
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.csproj.GenerateResource.cache
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.csproj.CoreCompileInputs.cache
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.exe
+D:\Đồ án cơ sở\ShopTreEm\ShopTreEm\obj\Debug\ShopTreEm.pdb
